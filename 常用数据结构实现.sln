@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树", "常用数据结构实现\常用数据结构实现.vcxproj", "{B2AB8D7F-72FE-46A9-B363-2CB68D9F7BD1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树遍历", "二叉树遍历\二叉树遍历.vcxproj", "{31786545-0626-4E1F-A167-49E171A173A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "哈夫曼树", "哈夫曼树\哈夫曼树.vcxproj", "{E285DD6C-60DB-4653-A298-B4F84BBE924D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图", "图\图.vcxproj", "{5808A7C0-CC52-48AA-9800-90B618846AEF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图_邻接链表", "图_邻接链表\图_邻接链表.vcxproj", "{42F0EF25-B518-48B3-8700-2267921BB2E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图_邻接矩阵_遍历", "图_邻接矩阵_遍历\图_邻接矩阵_遍历.vcxproj", "{F8CBD207-96BF-4468-B63D-B615A5674DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AB8D7F-72FE-46A9-B363-2CB68D9F7BD1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2AB8D7F-72FE-46A9-B363-2CB68D9F7BD1}.Debug|Win32.Build.0 = Debug|Win32
+		{B2AB8D7F-72FE-46A9-B363-2CB68D9F7BD1}.Release|Win32.ActiveCfg = Release|Win32
+		{B2AB8D7F-72FE-46A9-B363-2CB68D9F7BD1}.Release|Win32.Build.0 = Release|Win32
+		{31786545-0626-4E1F-A167-49E171A173A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31786545-0626-4E1F-A167-49E171A173A9}.Debug|Win32.Build.0 = Debug|Win32
+		{31786545-0626-4E1F-A167-49E171A173A9}.Release|Win32.ActiveCfg = Release|Win32
+		{31786545-0626-4E1F-A167-49E171A173A9}.Release|Win32.Build.0 = Release|Win32
+		{E285DD6C-60DB-4653-A298-B4F84BBE924D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E285DD6C-60DB-4653-A298-B4F84BBE924D}.Debug|Win32.Build.0 = Debug|Win32
+		{E285DD6C-60DB-4653-A298-B4F84BBE924D}.Release|Win32.ActiveCfg = Release|Win32
+		{E285DD6C-60DB-4653-A298-B4F84BBE924D}.Release|Win32.Build.0 = Release|Win32
+		{5808A7C0-CC52-48AA-9800-90B618846AEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5808A7C0-CC52-48AA-9800-90B618846AEF}.Debug|Win32.Build.0 = Debug|Win32
+		{5808A7C0-CC52-48AA-9800-90B618846AEF}.Release|Win32.ActiveCfg = Release|Win32
+		{5808A7C0-CC52-48AA-9800-90B618846AEF}.Release|Win32.Build.0 = Release|Win32
+		{42F0EF25-B518-48B3-8700-2267921BB2E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42F0EF25-B518-48B3-8700-2267921BB2E8}.Debug|Win32.Build.0 = Debug|Win32
+		{42F0EF25-B518-48B3-8700-2267921BB2E8}.Release|Win32.ActiveCfg = Release|Win32
+		{42F0EF25-B518-48B3-8700-2267921BB2E8}.Release|Win32.Build.0 = Release|Win32
+		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Debug|Win32.Build.0 = Debug|Win32
+		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Release|Win32.ActiveCfg = Release|Win32
+		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
