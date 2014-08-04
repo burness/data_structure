@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图_邻接链表", "图_邻
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图_邻接矩阵_遍历", "图_邻接矩阵_遍历\图_邻接矩阵_遍历.vcxproj", "{F8CBD207-96BF-4468-B63D-B615A5674DA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图的最小生成树", "图的最小生成树\图的最小生成树.vcxproj", "{F7F63A8A-A31A-46CE-B4F8-12066B264A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Debug|Win32.Build.0 = Debug|Win32
 		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Release|Win32.ActiveCfg = Release|Win32
 		{F8CBD207-96BF-4468-B63D-B615A5674DA2}.Release|Win32.Build.0 = Release|Win32
+		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Debug|Win32.Build.0 = Debug|Win32
+		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Release|Win32.ActiveCfg = Release|Win32
+		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
