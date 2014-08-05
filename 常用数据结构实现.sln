@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图_邻接矩阵_遍历", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图的最小生成树", "图的最小生成树\图的最小生成树.vcxproj", "{F7F63A8A-A31A-46CE-B4F8-12066B264A45}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最短路径--狄克斯特拉", "最短路径--狄克斯特拉\最短路径--狄克斯特拉.vcxproj", "{FB45F45C-9B73-4665-BD9E-725B6E2049CE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最短路径之弗洛伊德算法", "最短路径之弗洛伊德算法\最短路径之弗洛伊德算法.vcxproj", "{9F4F8BB9-07F8-45D8-9907-AEE889827A4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -49,6 +53,14 @@ Global
 		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Debug|Win32.Build.0 = Debug|Win32
 		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Release|Win32.ActiveCfg = Release|Win32
 		{F7F63A8A-A31A-46CE-B4F8-12066B264A45}.Release|Win32.Build.0 = Release|Win32
+		{FB45F45C-9B73-4665-BD9E-725B6E2049CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB45F45C-9B73-4665-BD9E-725B6E2049CE}.Debug|Win32.Build.0 = Debug|Win32
+		{FB45F45C-9B73-4665-BD9E-725B6E2049CE}.Release|Win32.ActiveCfg = Release|Win32
+		{FB45F45C-9B73-4665-BD9E-725B6E2049CE}.Release|Win32.Build.0 = Release|Win32
+		{9F4F8BB9-07F8-45D8-9907-AEE889827A4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F4F8BB9-07F8-45D8-9907-AEE889827A4A}.Debug|Win32.Build.0 = Debug|Win32
+		{9F4F8BB9-07F8-45D8-9907-AEE889827A4A}.Release|Win32.ActiveCfg = Release|Win32
+		{9F4F8BB9-07F8-45D8-9907-AEE889827A4A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
