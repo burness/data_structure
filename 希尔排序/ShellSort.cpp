@@ -4,7 +4,7 @@
 using namespace std;
 #define DataType int
 
-DataType* ShellSort(DataType*a,int n){
+DataType* ShellSort(DataType a[],int n){
 	for(int gap=n/2;gap>0;gap=gap/2){
 		for(int i=0;i!=gap;i++){
 			for(int j=i+gap;j<n;j+=gap){
@@ -30,7 +30,7 @@ void display(DataType* a,int n){
 	}
 }
 
-DataType* InsertSort(DataType* a, int n){
+DataType* InsertSort(DataType a[], int n){
 	for(int i=0;i<n-1;i++){
 		DataType temp;
 		temp=a[i+1];
@@ -57,10 +57,11 @@ int main(){
 	//ofstream outfile("./out.txt");
 	ofstream outfile("./out2.txt");
 	//DataType a[]={8,64,2,20,34,54,23,54,14,98};
-	DataType a[200];
+	DataType a[100000],b[100000];
 	srand((unsigned)time(NULL));
-	for(int i=0;i<200;i++){
-		a[i]=200-i;
+	for(int i=0;i<100000;i++){
+		a[i]=100000-i;
+		b[i]=100000-i;
 		outfile<<a[i]<<" ";
 	}
 
@@ -69,7 +70,7 @@ int main(){
 	finish=clock();
 	double shell_time=(double)(finish-start)/CLOCKS_PER_SEC;
 	start2=clock();
-	DataType* bb=InsertSort(a,sizeof(a)/sizeof(int));
+	DataType* bb=InsertSort(b,sizeof(b)/sizeof(int));
 	finish2=clock();
 	double Insert_time=(double)(finish2-start2)/CLOCKS_PER_SEC;
 	display(aa,100);
