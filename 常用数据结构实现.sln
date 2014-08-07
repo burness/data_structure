@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "直接插入排序", "直�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "希尔排序", "希尔排序\希尔排序.vcxproj", "{8DE61A03-C34B-487E-A54B-9D43F2358FC5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "直接选择排序", "直接选择排序\直接选择排序.vcxproj", "{04C1D313-19AA-426E-993F-ED7F3059CFFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "堆排序", "堆排序\堆排序.vcxproj", "{47ADB2C2-4889-4667-9F07-81E53F8FFE4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -73,6 +77,14 @@ Global
 		{8DE61A03-C34B-487E-A54B-9D43F2358FC5}.Debug|Win32.Build.0 = Debug|Win32
 		{8DE61A03-C34B-487E-A54B-9D43F2358FC5}.Release|Win32.ActiveCfg = Release|Win32
 		{8DE61A03-C34B-487E-A54B-9D43F2358FC5}.Release|Win32.Build.0 = Release|Win32
+		{04C1D313-19AA-426E-993F-ED7F3059CFFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04C1D313-19AA-426E-993F-ED7F3059CFFE}.Debug|Win32.Build.0 = Debug|Win32
+		{04C1D313-19AA-426E-993F-ED7F3059CFFE}.Release|Win32.ActiveCfg = Release|Win32
+		{04C1D313-19AA-426E-993F-ED7F3059CFFE}.Release|Win32.Build.0 = Release|Win32
+		{47ADB2C2-4889-4667-9F07-81E53F8FFE4D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47ADB2C2-4889-4667-9F07-81E53F8FFE4D}.Debug|Win32.Build.0 = Debug|Win32
+		{47ADB2C2-4889-4667-9F07-81E53F8FFE4D}.Release|Win32.ActiveCfg = Release|Win32
+		{47ADB2C2-4889-4667-9F07-81E53F8FFE4D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
