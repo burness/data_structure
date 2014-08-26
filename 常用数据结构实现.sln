@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "交换排序之快速排序
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "归并排序", "归并排序\归并排序.vcxproj", "{96B1B38D-AA10-4E30-8F1B-D813BCCB8EFF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基数排序", "基数排序\基数排序.vcxproj", "{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -103,6 +105,10 @@ Global
 		{96B1B38D-AA10-4E30-8F1B-D813BCCB8EFF}.Debug|Win32.Build.0 = Debug|Win32
 		{96B1B38D-AA10-4E30-8F1B-D813BCCB8EFF}.Release|Win32.ActiveCfg = Release|Win32
 		{96B1B38D-AA10-4E30-8F1B-D813BCCB8EFF}.Release|Win32.Build.0 = Release|Win32
+		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Debug|Win32.Build.0 = Debug|Win32
+		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Release|Win32.ActiveCfg = Release|Win32
+		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
