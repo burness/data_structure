@@ -35,6 +35,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "归并排序", "归并排�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基数排序", "基数排序\基数排序.vcxproj", "{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "静态查找表", "静态查找表\静态查找表.vcxproj", "{233B80BC-AB81-4B22-9FA6-7979EC7B0339}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有序顺序表查找", "有序顺序表查找\有序顺序表查找.vcxproj", "{1299468C-B957-4CD9-83D4-401DBC6D39B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -109,6 +113,14 @@ Global
 		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Debug|Win32.Build.0 = Debug|Win32
 		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Release|Win32.ActiveCfg = Release|Win32
 		{CC236A6C-B858-4B6F-88FF-E0D3CDD7EE64}.Release|Win32.Build.0 = Release|Win32
+		{233B80BC-AB81-4B22-9FA6-7979EC7B0339}.Debug|Win32.ActiveCfg = Debug|Win32
+		{233B80BC-AB81-4B22-9FA6-7979EC7B0339}.Debug|Win32.Build.0 = Debug|Win32
+		{233B80BC-AB81-4B22-9FA6-7979EC7B0339}.Release|Win32.ActiveCfg = Release|Win32
+		{233B80BC-AB81-4B22-9FA6-7979EC7B0339}.Release|Win32.Build.0 = Release|Win32
+		{1299468C-B957-4CD9-83D4-401DBC6D39B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1299468C-B957-4CD9-83D4-401DBC6D39B4}.Debug|Win32.Build.0 = Debug|Win32
+		{1299468C-B957-4CD9-83D4-401DBC6D39B4}.Release|Win32.ActiveCfg = Release|Win32
+		{1299468C-B957-4CD9-83D4-401DBC6D39B4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
